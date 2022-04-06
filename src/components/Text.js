@@ -9,14 +9,15 @@ const Text = () => {
 
         <blockquote>
           <p>
-            "The universe is a vast, irregular mass of stars, dust, and gas. The
-            universe is a vast, irregular mass of stars, dust, and gas.
+            "The universe is a vast, irregular mass of stars, dust, gas, and fat
+            ass."
           </p>
+          <p>-Stephen Hawking</p>
         </blockquote>
 
         <section>
           <h2>The Universe</h2>
-          <p>Never ending glory</p>
+          <p>Never ending glory hole</p>
 
           <p>A vast playground full where chaos and stabilty coexist.</p>
 
@@ -28,13 +29,11 @@ const Text = () => {
 
         <section>
           <h2>The Sonic Screwdriver</h2>
-          <p>Never ending glory</p>
-
-          <p>A vast playground full where chaos and stabilty coexist.</p>
+          <p>Never ending pain</p>
 
           <p>
-            Mcdonals ipsum onomatopoeia is a form of poetry in which the words
-            are vast
+            The hedgehog hopped over the fence and killed my venus flytrap. This
+            was the beginning to my long journey towards greatness.
           </p>
         </section>
 
